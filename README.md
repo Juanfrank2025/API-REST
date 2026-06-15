@@ -26,5 +26,5 @@ Sigue estos pasos para levantar el servidor en tu entorno local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd <NOMBRE_DE_LA_CARPETA>
+   git clone <URL_DE_TU_REPOSITORIO> https://github.com/Juanfrank2025/API-REST
+ 
